@@ -1,5 +1,5 @@
 # Token Mold
-<img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/moerill/token-mold?style=flat-square"> <img alt="GitHub" src="https://img.shields.io/github/license/moerill/token-mold?style=flat-square"> <img alt="GitHub Releases" src="https://img.shields.io/github/downloads/moerill/token-mold/latest/total?style=flat-square">  
+<img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/beetlejooce/token-mold?style=flat-square"> <img alt="GitHub" src="https://img.shields.io/github/license/beetlejooce/token-mold?style=flat-square"> <img alt="GitHub Releases" src="https://img.shields.io/github/downloads/beetlejooce/token-mold/latest/total?style=flat-square">  
 
 
 What is a foundry without its molds? This module provides you with a customizable mold for your Tokens.  
@@ -39,7 +39,7 @@ Pull a token onto the canvas and the chosen pattern will be automatically applie
 My focus is the FVTTs stable branch. I will neither promise nor prioritise updates for FVTTs beta or alpha branches! Feel free to report a bug so i know whats coming, but don't expect a fix before a stable FVTT update.
 
 ## Bug Reporting and Feature Suggestions
-Go to the [GitHub's issue board](https://github.com/Moerill/Token-Mold/issues) and create an issue with the template fitting to what you want to post and follow its instructions.
+Go to the [GitHub's issue board](https://github.com/beetlejooce/Token-Mold/issues) and create an issue with the template fitting to what you want to post and follow its instructions.
 
 **I will ignore half-hearted bug reports ignoring the issue template or Discord mentions!**  
 Its not difficult to put at least some effort into something that you want someone else to put their spare time into to fix!  
@@ -56,7 +56,7 @@ Also thanks to:
 Thanks to @NickEast for his ![foundry project creator](https://gitlab.com/foundry-projects/foundry-pc/create-foundry-project) which i'm using in a modified version for my building and publishing workflow.
 
 ## Licensing
-<img alt="GitHub" src="https://img.shields.io/github/license/moerill/token-mold?style=flat-square">
+<img alt="GitHub" src="https://img.shields.io/github/license/beetlejooce/token-mold?style=flat-square">
 
 This work is licensed under Foundry Virtual Tabletop [EULA - Limited License Agreement for module development](https://foundryvtt.com/article/license/).
 

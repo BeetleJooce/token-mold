@@ -13,8 +13,8 @@ const argv = require("yargs").argv;
 const browserSync = require("browser-sync").create();
 
 const moduleName = "token-mold";
-const repoBaseUrl = "https://github.com/Moerill/";
-const rawBaseUrl = "https://raw.githubusercontent.com/Moerill/";
+const repoBaseUrl = "https://github.com/beetlejooce/";
+const rawBaseUrl = "https://raw.githubusercontent.com/beetlejooce/";
 
 function getManifest() {
   const json = { root: "" };

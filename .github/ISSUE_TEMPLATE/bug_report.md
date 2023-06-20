@@ -28,7 +28,7 @@ A clear and concise description of what you expected to happen.
 
 **Module incompatibilities**
 Please try to reproduce your bug with all other modules deactivated. If this module clashes with another module, please find that module and report it here.  
-The [find the culprit](https://github.com/Moerill/fvtt-find-the-culprit/) module may prove to be useful here.
+The [find the culprit](https://github.com/beetlejooce/fvtt-find-the-culprit/) module may prove to be useful here.
 
 **Screenshots/GIFs/Videos**
 If applicable, add screenshots to help explain your problem.

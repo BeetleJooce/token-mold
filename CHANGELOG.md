@@ -1,7 +1,7 @@
 # v2.15.4
  - Adjusted resolutions to #137 & #138
- - Corrected an issue where refreshing selected tokens was causing a circular reference error ( [#141](https://github.com/Moerill/token-mold/issues/141) ).
- - Corrected an issue where the overlay could get disabled in certain cirucmstances ( [#51](https://github.com/Moerill/token-mold/issues/51) )
+ - Corrected an issue where refreshing selected tokens was causing a circular reference error ( [#141](https://github.com/beetlejooce/token-mold/issues/141) ).
+ - Corrected an issue where the overlay could get disabled in certain cirucmstances ( [#51](https://github.com/beetlejooce/token-mold/issues/51) )
 
 # v2.15.3
  - Corrected an issue where a conflict with certain game systems such as PF2E and a core Foundry v10 method that Token Mold utilizes could cause an infinite recursion error.  ( Issue #138)
@@ -24,7 +24,7 @@
 - Added option to override name replacement if you hold SHIFT when dragging (with thanks to Kenster421 for this change!)
 
 # v2.14.0
-- Geekswordsman is now maintaining Token Mold while Moerill conquers Earth (or at least, IRL stuff!)
+- Geekswordsman is now maintaining Token Mold while beetlejooce conquers Earth (or at least, IRL stuff!)
 - Added Starfinder to supported systems
 - Merged Spanish localization, with thanks to lozalojo!
 - Merged Japanese localization, with thanks to BrotherSharper!
@@ -111,7 +111,7 @@
 
 # v2.6
 
-- _Important_: Changed from GitLab to GitHub. The new Repositories link is <a href="https://github.com/Moerill/token-mold">https://github.com/Moerill/token-mold</a>. For issues and suggestions please use the githubs issue board.
+- _Important_: Changed from GitLab to GitHub. The new Repositories link is <a href="https://github.com/beetlejooce/token-mold">https://github.com/beetlejooce/token-mold</a>. For issues and suggestions please use the githubs issue board.
 - Added a reapply button to the quick settings. This button does reapply all current settings to the selected tokens, as if they were newly placed onto the scene.
 - Added some info and links to the GitHub page to the settings menu.
 - Added ability to randomize horizontal and vertical mirroring.
